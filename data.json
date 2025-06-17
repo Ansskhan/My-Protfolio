@@ -24,5 +24,19 @@
             "text": "C4RA is a stylish and responsive fragrance website designed to showcase luxury perfumes and beauty products. The layout is clean and elegant, with smooth scrolling and a modern look. Built using HTML, CSS, and JavaScript, it offers a user-friendly experience across devices. This project highlights visual design, brand presentation, and simplicity.",
             "link": "https://ansskhan.github.io/Fragrance-web/"
         }
+    ],
+    "Skill-Cards": [
+        {
+            "img": "",
+            "Title": "",
+            "text": "",
+            "animation" : ""
+        },
+        {
+            "img": "",
+            "Title": "",
+            "text": "",
+            "animation" : ""
+        }
     ]
 }

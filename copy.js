@@ -14,12 +14,13 @@ navbar.innerHTML = `
             <a class="nav-link" aria-current="page" href="./index.html#featured">PROJECTS</a>
           </li>
           <li class="nav-item">
-            <a class="nav-link" href="#">ABOUT</a>
+            <a class="nav-link" href="./index.html#end">ABOUT</a>
           </li>
           <li class="nav-item">
-            <a class="nav-link" href="#">CONTACT</a>
+            <a class="nav-link" href="./index.html#end">CONTACT</a>
           </li>
         </ul>
       </div>
     </div>
 `
+
