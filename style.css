@@ -539,12 +539,9 @@ opacity: 1;
 .end{
   width: 80vw;
   gap: 20px;
-}
-.about{
-  width: 50%;
-}
-.contact{
-  width: 50%;
+  display: flex;
+  flex-direction: row;
+  border: 2px solid black;
 }
 .contact .container{
   display: flex;
