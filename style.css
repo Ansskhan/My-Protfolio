@@ -541,7 +541,7 @@ opacity: 1;
   gap: 20px;
   display: flex;
   flex-direction: row;
-  border: 2px solid black;
+
 }
 .contact .container{
   display: flex;
