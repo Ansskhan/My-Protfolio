@@ -543,6 +543,9 @@ opacity: 1;
   flex-direction: row;
 
 }
+.end .col-5{
+  min-width: 300px;
+}
 .contact .container{
   display: flex;
   flex-direction: column;
